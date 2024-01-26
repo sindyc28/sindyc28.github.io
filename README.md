@@ -20,7 +20,7 @@ My complete implementation of final assignments and projects in **Data Analytics
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sindyc28/Excel-Portofolio.git)
 
-### SALES PERFORMANCE DASHBOARD
+### Sales Performance Dashboard
 
 The organization aims to conduct an in-depth analysis of its sales performance over a specified timeframe, with the goal of extracting valuable insights regarding customer segmentation preferences, sales and profit within product categories, shipping methods, and geographical locations.
 
@@ -28,15 +28,12 @@ The organization aims to conduct an in-depth analysis of its sales performance o
 <center><img src="images/EXCEL 1.png"></center>
 <br>
 
----
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+### Product Sales Dashboard
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+Conducting an analysis of a sales dataset comprising customer information, product details, order records, and location specifics for a prominent stakeholder within the company. The objective is to furnish valuable insights and assist the stakeholders in attaining a more profound comprehension of their data.
 
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
+<center><img src="images/EXCEL 2.png"/></center>
 <br>
 
 ---
