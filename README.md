@@ -27,7 +27,6 @@ The organization aims to conduct an in-depth analysis of its sales performance o
 
 <center><img src="images/EXCEL 1.png"></center>
 <br>
-
 ### Product Sales Dashboard
 
 Conducting an analysis of a sales dataset comprising customer information, product details, order records, and location specifics for a prominent stakeholder within the company. The objective is to furnish valuable insights and assist the stakeholders in attaining a more profound comprehension of their data.
