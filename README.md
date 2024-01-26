@@ -26,7 +26,7 @@ My complete implementation of final assignments and projects in **Data Analytics
 The organization aims to conduct an in-depth analysis of its sales performance over a specified timeframe, with the goal of extracting valuable insights regarding customer segmentation preferences, sales and profit within product categories, shipping methods, and geographical locations.
 
 <center><img src="images/EXCEL 1.png"></center>
-
+<br>
 
 ### Product Sales Dashboard
 
