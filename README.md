@@ -13,11 +13,27 @@ Effective and efficient data can provide valuable insights for better decision-m
 <p align="center">
   <kbd><img src="images/minimart.png"> </kbd> <br>
 
----
+----
 
 ## Excel Dashboard
 
 My complete implementation of final assignments and projects in **Data Analytics** by Digital Skola
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sindyc28/Excel-Portofolio.git)
+
+### SALES PERFORMANCE DASHBOARD
+
+The organization aims to conduct an in-depth analysis of its sales performance over a specified timeframe, with the goal of extracting valuable insights regarding customer segmentation preferences, sales and profit within product categories, shipping methods, and geographical locations.
+
+<p align="center">
+  <kbd><img src="images/EXCEL 1.png"> </kbd> <br>
+
+### PRODUCT SALES DASHBOARD
+
+Conducting an analysis of a sales dataset comprising customer information, product details, order records, and location specifics for a prominent stakeholder within the company. The objective is to furnish valuable insights and assist the stakeholders in attaining a more profound comprehension of their data.
+
+<p align="center">
+  <kbd><img src="images/EXCEL 2.png"> </kbd> <br>
+
+----
 
