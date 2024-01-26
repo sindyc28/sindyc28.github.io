@@ -13,7 +13,7 @@ Effective and efficient data can provide valuable insights for better decision-m
 <p align="center">
   <kbd><img src="images/minimart.png" width=700px> </kbd> <br>
 
-
+<center><img src="images/minimart.png"/></center>
 
 ---
 
