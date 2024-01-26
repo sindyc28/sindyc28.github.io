@@ -16,6 +16,7 @@ Effective and efficient data can provide valuable insights for better decision-m
 
 
 ---
+
 ## Excel Dashboard
 
 My complete implementation of final assignments and projects in **Data Analytics** by Digital Skola
