@@ -10,7 +10,6 @@ My complete implementation of final assignments and projects in **Tetris Batch I
 
 Effective and efficient data can provide valuable insights for better decision-making, operational optimization, and overall business performance improvement. Minimarts, as small to medium-sized retail businesses, often face challenges in managing customer information, product inventory, operational efficiency, and more. The goal of this project is to conduct an analysis using minimart data with the expectation that the company can optimize operations, increase sales, and gain a competitive advantage.
 
-<br>
 <center><img src="images/minimart.png"/></center>
 <br>
 
@@ -23,7 +22,6 @@ Effective and efficient data can provide valuable insights for better decision-m
 
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 
-<br>
 <center><img src="images/car_sales.png"/></center>
 <br>
 
@@ -39,6 +37,7 @@ My complete implementation of final assignments and projects in **Data Analytics
 The organization aims to conduct an in-depth analysis of its sales performance over a specified timeframe, with the goal of extracting valuable insights regarding customer segmentation preferences, sales and profit within product categories, shipping methods, and geographical locations.
 
 <center><img src="images/EXCEL 1.png"></center>
+
 
 ### Product Sales Dashboard
 
